@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">  
-   <img src="https://github.com/joaorcunha/calculator/blob/gh-pages/banner.png?raw=true" />
+   <img src="https://github.com/joaorcunha/digital-clock/blob/gh-pages/banner.png?raw=true" />
     
  </p>
  
