@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  Confira o resultado do desafio em: <a href="https://joaorcunha.github.io/digital-clock/" target="_blank">https://joaorcunha.github.io/digital-clock/</a></em>
+  Confira o resultado do projeto em: <a href="https://joaorcunha.github.io/digital-clock/" target="_blank">https://joaorcunha.github.io/digital-clock/</a></em>
    
 </p>
 
